@@ -1,2 +1,2 @@
-# Sequalize_MariaDB
-Software to test some functionalities of the ORM Sequalize in NodeJS with MariaDB database.
+# Sequelize_MariaDB
+Software to test some functionalities of the ORM Sequelize in NodeJS with MariaDB database.
